@@ -1,0 +1,4 @@
+Miguel Freitas (Engenharia de Computação - UnB)
+
+Miguel tem interesse em engenharia de software, microcontroladores, automação residencial,
+sistemas embarcados, arquitetura de computadores e processamento digital de imagens.

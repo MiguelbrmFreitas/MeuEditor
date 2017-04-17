@@ -1,0 +1,65 @@
+Como funciona a interação com o layout através do mouse, do teclado e do monitor de vídeo:
+
+	Através do mouse pode-se intuitivamente selecionar, arrastar, minimizar e aumentar as caixas
+	aonde as imagens são exibidas e clicar em abas do menu e escolher sub-opções que façam alguma
+	coisa, explicados abaixo. Pode-se acessar os menus através de atalhos pelo teclado, descritos
+	também abaixo.
+	
+
+
+O que cada menu (aba) e suas sub-opcoes fazem:
+
+		Menu Arquivo:
+    Menu para funcionalidades relacionadas a arquivos, seja para abrir um arquivo de imagem do computador
+    ou para salvar uma imagem do programa no computador como um novo arquivo de imagem. Tambem inclui a
+    função de sair do programa.
+
+
+- Abrir arquivo: Mostra um browser para procurar um arquivo de imagem no seu computador que, ao ser sele-
+cionado, abre-se no editor. Também pode-se entrar com o nome de um arquivo. Se o nome não existir, 
+nada será aberto.
+
+- Salvar imagem: Salva a imagem selecionada como um arquivo no computador cujo local é escolhido através
+de um browser por onde se navega pelas pastas do computador, sendo esta a última imagem em que se 
+clicou/arrastou com o mouse ou a última imagem aberta/gerada pelo programa.
+
+- Sair: Dá a opção de sair do programa.
+
+
+
+		Menu Ferramentas:
+
+    Menu para as funcionalidades que o programa tem para gerar novas imagens, seja a partir de imagens
+    anteriores, seja de forma inédita. Inclui difernetes filtros e funcionalidades, como tirar foto em
+    tempo real pela webcam, deixar uma imagem preta e branca, deixar uma imagem negativa, suavizar/borrar
+    uma imagem e sobrepor uma imagem em outra.
+
+- Preto e Branco: Gera uma nova imagem a partir da última imagem selecionada, mostrando na tela esta imagem
+após passar por um filtro que a deixa em escala de cinza (preto e branco). A imagem estará pronta para ser
+salva ou sofrer novas modificações.
+
+- Foto de Webcam: Se houver uma webcam funcional conectada ao computador (depende do hardware), tira uma foto
+em tempo real e exibe na tela uma nova imagem, pronta para ser salva ou sofrer outras modificações.
+Mostra uma mensagem de erro caso não tenha uma webcam configurada.
+
+- Suavizar: Passa um filtro que suaviza a imagem, tirando ruído da mesma ou até borrando-a. Aparece uma caixa
+de diálogo com um slider horizontal para escolher a intensidade do filtro utilizado, ou seja, o tanto que a
+imagem vai ser suavizada/borrada. Uma nova imagem é gerada após esse filtro, pronta para ser salva ou sofrer
+novas modificações.
+
+- Sobrepor: Sobrepõe a última e a penúltima imagem que foram clicadas, selecionadas ou arrastadas pelo mouse,
+sendo que a imagem maior necessariamente serve de fundo para a imagem menor.
+
+- Negativar: Gera uma nova imagem a partir da última imagem selecionada, mostrando essa imagem após passar por
+um filtro que deixa a imagem negativa. A imagem estará pronta para sofrer novas modificações.
+
+
+		Menu Ajuda:
+
+    Menu para ajudar o usuário a ter mais informações sobre o programa e seus desenvolvedores.
+
+- Instruções de uso (F1): Abre esta caixa de texto que você está lendo.
+
+- Sobre (F2): Dá informações básicas sobre os desenvolvedores.
+
+- Aguarde: Explica que esta é uma versão beta do software, que ainda será muito melhorada.
