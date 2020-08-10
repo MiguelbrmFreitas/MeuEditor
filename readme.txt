@@ -1,7 +1,3 @@
-Grupo:
-- Miguel Barreto Rezende Marques de Freitas - 12/0130424
-- Daniel Nora Castro - 12/0114470
-
 O projeto utiliza a biblioteca externa OpenCV versão 2.4.8
 Para executá-lo, é necessário ter a OpenCV versão 2.4.8 e a última versão do Java devidamente configuradas na IDE Eclipse e importar toda esta pasta como um projeto.
 Este tutorial ensina como configurar a OpenCV no Eclipse e tem referências para o Download da mesma: http://docs.opencv.org/trunk/doc/tutorials/introduction/java_eclipse/java_eclipse.html
